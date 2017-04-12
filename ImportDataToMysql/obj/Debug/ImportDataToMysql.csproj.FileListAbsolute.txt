@@ -1,0 +1,32 @@
+c:\users\yi ming\documents\visual studio 2015\Projects\ImportDataToMysql\ImportDataToMysql\bin\Debug\ImportDataToMysql.exe.config
+c:\users\yi ming\documents\visual studio 2015\Projects\ImportDataToMysql\ImportDataToMysql\bin\Debug\ImportDataToMysql.exe
+c:\users\yi ming\documents\visual studio 2015\Projects\ImportDataToMysql\ImportDataToMysql\bin\Debug\ImportDataToMysql.pdb
+c:\users\yi ming\documents\visual studio 2015\Projects\ImportDataToMysql\ImportDataToMysql\obj\Debug\ImportDataToMysql.csprojResolveAssemblyReference.cache
+c:\users\yi ming\documents\visual studio 2015\Projects\ImportDataToMysql\ImportDataToMysql\obj\Debug\ImportDataToMysql.Form1.resources
+c:\users\yi ming\documents\visual studio 2015\Projects\ImportDataToMysql\ImportDataToMysql\obj\Debug\ImportDataToMysql.Properties.Resources.resources
+c:\users\yi ming\documents\visual studio 2015\Projects\ImportDataToMysql\ImportDataToMysql\obj\Debug\ImportDataToMysql.csproj.GenerateResource.Cache
+c:\users\yi ming\documents\visual studio 2015\Projects\ImportDataToMysql\ImportDataToMysql\obj\Debug\ImportDataToMysql.exe
+c:\users\yi ming\documents\visual studio 2015\Projects\ImportDataToMysql\ImportDataToMysql\obj\Debug\ImportDataToMysql.pdb
+C:\Users\Yi Ming\Documents\Visual Studio 2015\Projects\ImportDataToMysql\ImportDataToMysql\bin\Debug\MySql.Data.dll
+C:\Users\Yi Ming\Documents\Visual Studio 2015\Projects\ImportDataToMysql\ImportDataToMysql\bin\Debug\EntityFramework.dll
+C:\Users\Yi Ming\Documents\Visual Studio 2015\Projects\ImportDataToMysql\ImportDataToMysql\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yi Ming\Documents\Visual Studio 2015\Projects\ImportDataToMysql\ImportDataToMysql\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Yi Ming\Documents\Visual Studio 2015\Projects\ImportDataToMysql\ImportDataToMysql\bin\Debug\System.Data.dll
+C:\Users\Yi Ming\Documents\Visual Studio 2015\Projects\ImportDataToMysql\ImportDataToMysql\bin\Debug\EntityFramework.xml
+C:\Users\Yi Ming\Documents\Visual Studio 2015\Projects\ImportDataToMysql\ImportDataToMysql\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yi Ming\Desktop\ImportDataToMysql\ImportDataToMysql\bin\Debug\ImportDataToMysql.exe.config
+C:\Users\Yi Ming\Desktop\ImportDataToMysql\ImportDataToMysql\obj\Debug\ImportDataToMysql.exe
+C:\Users\Yi Ming\Desktop\ImportDataToMysql\ImportDataToMysql\obj\Debug\ImportDataToMysql.pdb
+C:\Users\Yi Ming\Desktop\ImportDataToMysql\ImportDataToMysql\bin\Debug\ImportDataToMysql.exe
+C:\Users\Yi Ming\Desktop\ImportDataToMysql\ImportDataToMysql\bin\Debug\ImportDataToMysql.pdb
+C:\Users\Yi Ming\Desktop\ImportDataToMysql\ImportDataToMysql\bin\Debug\EntityFramework.dll
+C:\Users\Yi Ming\Desktop\ImportDataToMysql\ImportDataToMysql\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yi Ming\Desktop\ImportDataToMysql\ImportDataToMysql\bin\Debug\MySql.Data.dll
+C:\Users\Yi Ming\Desktop\ImportDataToMysql\ImportDataToMysql\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Yi Ming\Desktop\ImportDataToMysql\ImportDataToMysql\bin\Debug\System.Data.dll
+C:\Users\Yi Ming\Desktop\ImportDataToMysql\ImportDataToMysql\bin\Debug\EntityFramework.xml
+C:\Users\Yi Ming\Desktop\ImportDataToMysql\ImportDataToMysql\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yi Ming\Desktop\ImportDataToMysql\ImportDataToMysql\obj\Debug\ImportDataToMysql.csprojResolveAssemblyReference.cache
+C:\Users\Yi Ming\Desktop\ImportDataToMysql\ImportDataToMysql\obj\Debug\ImportDataToMysql.Form1.resources
+C:\Users\Yi Ming\Desktop\ImportDataToMysql\ImportDataToMysql\obj\Debug\ImportDataToMysql.Properties.Resources.resources
+C:\Users\Yi Ming\Desktop\ImportDataToMysql\ImportDataToMysql\obj\Debug\ImportDataToMysql.csproj.GenerateResource.Cache
